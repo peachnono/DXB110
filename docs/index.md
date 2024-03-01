@@ -12,4 +12,4 @@ This site contains notes from the unit DXB110 - Principles of Interaction and UX
 
 ---
 # Weekly Readings
-[Week 1](http://nickkellyresearch.com/wp-content/uploads/2022/02/DXB110-Week_1-What_is_IXD.pdf){.md-button } [Week 2](https://canvas.qut.edu.au/courses/16909){.md-button }
+[Week 1](http://nickkellyresearch.com/wp-content/uploads/2022/02/DXB110-Week_1-What_is_IXD.pdf){.md-button }
