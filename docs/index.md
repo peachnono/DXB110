@@ -4,7 +4,7 @@
 
 # DXB110 - Principles of Interaction and UX Design
 
-This site contains notes from the unit DXB110 - Principles of Interaction and UX Design at Queensland University of Technology. This website was written by [me](https://github.com/peachnono) for quick revision and reference.
+This site contains notes that are referenced from the unit DXB110 - Principles of Interaction and UX Design at the QUT School of Design, A/Prof Nick Kelly. This website was written by [me](https://github.com/peachnono) for quick revision and reference.
 
 > **Note:** This website is not intended to replace the tutorials and lectures and should not be used as such. It is crucial to attend classes and refer to official course materials for comprehensive learning.
 
@@ -13,3 +13,4 @@ This site contains notes from the unit DXB110 - Principles of Interaction and UX
 ---
 # Weekly Readings
 [Week 1](http://nickkellyresearch.com/wp-content/uploads/2022/02/DXB110-Week_1-What_is_IXD.pdf){.md-button }
+

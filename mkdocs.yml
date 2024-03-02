@@ -5,7 +5,8 @@ theme:
     logo: material/cards-heart
   palette:
     scheme: slate
-    primary: black
+    primary: deep purple
+    accent: deep purple
   features:
     - navigation.path
     - toc.integrate   
@@ -21,3 +22,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_css:
+  - 'custom.css'

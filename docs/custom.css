@@ -1,0 +1,7 @@
+/* Custom header color */
+.md-header {
+    background-color: #000000;
+}
+body nav.md-header {
+    background-color: #000000;
+}

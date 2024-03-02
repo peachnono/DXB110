@@ -1,10 +1,14 @@
 # Week 1: What is Interaction Design? What is UX Design?
+> **Note:** These notes are referenced from course material at DXB110 at the QUT School of Design, A/Prof Nick Kelly
 
 Quick Links
 
 - [Lecture Slides](https://connectqutedu-my.sharepoint.com/:b:/r/personal/kellyn5_qut_edu_au/Documents/DXB110-2024/_DXB110%202024%20student%20facing%20files/lecture%20slides/DXB110-Week1-WhatAreIXDandUXDesign.pdf?csf=1&web=1&e=nyTohW)
 - [Tutorial Slides](https://connectqutedu-my.sharepoint.com/:b:/r/personal/kellyn5_qut_edu_au/Documents/DXB110-2024/_DXB110%202024%20student%20facing%20files/tutorial%20slides/DXB110-Week%201%20tutorial%20slides.pdf?csf=1&web=1&e=XlJOnb), [9AM-11AM FRI Tutorial Slides](https://cdn.discordapp.com/attachments/1206862994718330900/1212927580672626698/Week_1.pdf?ex=65f39dd6&is=65e128d6&hm=4f7b5c109ce04879f028ba92dd8521db7c0ce3a3c7615f12043ab4a78075adb1&)
 - [Weekly Reading](http://nickkellyresearch.com/wp-content/uploads/2022/02/DXB110-Week_1-What_is_IXD.pdf)
+
+Official References  
+Kelly, N., Hobson, G., & Greentree, S. (2022). What is Interaction Design? Retrieved from <http://nickkellyresearch.com/wp-content/uploads/2022/02/DXB110-Week_1-What_is_IXD.pdf>
 ---
 
 ## Introduction
