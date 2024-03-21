@@ -3,6 +3,11 @@
     background-color: #000000;
 }
 
+.md-nav {
+    background-color: #000000; /* Change this to your desired background color */
+}
+
+
 :root {
     --md-primary-fg-color:        #f7379d;
     --md-primary-fg-color--light: #ECB7B7;
